@@ -1,0 +1,4 @@
+baseURL = "https://notes-by-siza.github.io/my_learnings/"
+languageCode = "en-us"
+title = "My Notes by Siza"
+theme = "hugo-theme-mini"
