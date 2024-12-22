@@ -63,7 +63,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://notes-by-siza.github.io/my_learnings/" \
-            --theme hugo-theme-mini \
+            --theme hugo-theme-mini
             --destination public
 
       - name: Upload artifact
